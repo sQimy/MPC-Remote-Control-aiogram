@@ -1,0 +1,13 @@
+keys = ['pagedown'
+'pageup'
+'playpause'
+'pause'
+'pgdn'
+'pgup'
+'prevtrack'
+'space'
+'volumedown'
+'volumemute'
+'volumeup'
+'nexttrack'
+]
