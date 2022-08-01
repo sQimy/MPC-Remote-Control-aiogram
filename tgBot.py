@@ -36,12 +36,8 @@ async def bot_message(message: types.Message):
         await bot.send_message(message.from_user.id, '🥺')
         sys.exit()
     else:
-        await message.reply('Больше сюда не пиши Блять')
-        await message.reply('От тебя Блять говной воняет')
-        await message.reply('Даже от сюда с телефона чуствую Бля')
-        await message.reply('Пи')
-        await message.reply('Да')
-        await message.reply('Рас')
+        await message.reply('Всё')
+
     
 
 if __name__=='__main__':
